@@ -6,4 +6,5 @@ void main() {
 	std::cout << "Your name:";
 	std::cin >> userName;
 	std::cout << "Hello " << userName << std::endl;
+
 }
